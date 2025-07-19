@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
+<h1 align="center">Hi 👋, I'm Ishaant</h1>
 <h3 align="center">A passionate Full Stack Developer & AI Enthusiast from India 🇮🇳</h3>
 
 ---
@@ -63,7 +63,7 @@
 
 ### 🧠 Featured Projects
 
-- 💖 [**HeartSync**](https://github.com/piyushyourusername/HeartSync) – Your AI-powered emotional support chatbot
+- 💖 [**HeartSync**](https://github.com//HeartSync) – Your AI-powered emotional support chatbot
 - 📊 [**GATE DA Prep Tracker**](https://github.com/piyushyourusername/GateDA-Tracker) – Self-assessment and topic tracking tool for GATE DA 2026
 - 🤖 [**VirtualGF**](https://github.com/piyushyourusername/VirtualGF) – Personalized AI chat experience powered by your chat history
 
