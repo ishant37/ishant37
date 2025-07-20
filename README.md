@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **AI-powered Web Apps & Chatbots**
 - 🌱 I’m currently learning **Machine Learning, GCP Security, and Data Science for GATE DA 2026**
 - 💬 Ask me about **JavaScript, React, Node.js, Python, and AI/ML**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **singhishant37@gmail.com**
 - ⚡ Fun fact: I love building side projects that solve real-world problems!
 
 ---
