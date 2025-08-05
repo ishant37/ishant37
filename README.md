@@ -35,27 +35,21 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushyourusername&show_icons=true&theme=radical" alt="Piyush's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyourusername&theme=radical" alt="GitHub Streak" />
-</p>
+![Ishaant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishaant2510&show_icons=true&theme=radical&hide_border=false&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaant2510&layout=compact&theme=radical&hide_border=false)
 
 ---
 
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/ishaant-singh-288b70291" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:singhishant37@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -63,17 +57,11 @@
 
 ### 🧠 Featured Projects
 
-- 💖 [**HeartSync**](https://github.com//HeartSync) – Your AI-powered emotional support chatbot
-- 📊 [**GATE DA Prep Tracker**](https://github.com/piyushyourusername/GateDA-Tracker) – Self-assessment and topic tracking tool for GATE DA 2026
-- 🤖 [**VirtualGF**](https://github.com/piyushyourusername/VirtualGF) – Personalized AI chat experience powered by your chat history
+- 💖 [**HeartSync**](https://github.com/ishant37/HeartSync) – Your AI-powered emotional support chatbot
+- 📊 [**Job junction**](https://github.com/ishant37/Backend-of-Job-Junction)
 
 ---
 
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Girlfriend Using Chat History & Gemini API](https://yourblog.com/ai-girlfriend)
-- [Top 10 Mistakes to Avoid While Preparing for GATE DA](https://yourblog.com/gate-da-mistakes)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
