@@ -46,7 +46,7 @@
 
 <p>
   <a href="https://linkedin.com/in/ishaant-singh-288b70291" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://www.linkedin.com/in/ishaant-singh-288b70291/" />
   </a>
   <a href="mailto:singhishant37@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
