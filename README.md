@@ -59,6 +59,7 @@
 
 - 💖 [**HeartSync**](https://github.com/ishant37/HeartSync) – Your AI-powered emotional support chatbot
 - 📊 [**Job junction**](https://github.com/ishant37/Backend-of-Job-Junction)
+-  ☁ [**SyncScript**](https://github.com/ishant37/SyncScript)
 
 ---
 
