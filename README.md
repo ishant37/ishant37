@@ -4,9 +4,9 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **AI-powered Web Apps & Chatbots**
-- 🌱 I’m currently learning **Machine Learning, GCP Security, and Data Structures Algorithms to imporve the coding skills**
+- 🚀 Registered for **Flipkart Grid** — gearing up to build and compete!
+- 🔭 I'm currently working on **AI-powered Web Apps & Chatbots**
+- 🌱 I'm currently learning **Machine Learning, GCP Security, and Data Structures & Algorithms** to sharpen my coding skills
 - 💬 Ask me about **JavaScript, React, Node.js, Python, and AI/ML**
 - 📫 Reach me at: **singhishant37@gmail.com**
 - ⚡ Fun fact: I love building side projects that solve real-world problems!
@@ -33,20 +33,21 @@
 
 ---
 
+### 🏆 Competitions & Hackathons
+![Flipkart Grid](https://img.shields.io/badge/Flipkart%20Grid-Registered-blue?style=flat-square&logo=flipkart&logoColor=white)
+
+---
+
 ### 📈 GitHub Stats
-
-
 ![Ishaant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishaant2510&show_icons=true&theme=radical&hide_border=false&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaant2510&layout=compact&theme=radical&hide_border=false)
 
 ---
 
 ### 📫 Connect With Me
-
 <p>
   <a href="https://linkedin.com/in/ishaant-singh-288b70291" target="_blank">
-    <img alt="LinkedIn" src="https://www.linkedin.com/in/ishaant-singh-288b70291/" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:singhishant37@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -56,15 +57,10 @@
 ---
 
 ### 🧠 Featured Projects
-
-- 💖 [**HeartSync**](https://github.com/ishant37/HeartSync) – Your AI-powered emotional support chatbot
-- 📊 [**Job junction**](https://github.com/ishant37/Backend-of-Job-Junction)
--  ☁ [**SyncScript**](https://github.com/ishant37/SyncScript)
-
----
-
+- 💖 [**HeartSync**](https://github.com/ishant37/HeartSync) 
+- 📊 [**Job Junction**](https://github.com/ishant37/Backend-of-Job-Junction)
+- ☁️ [**SyncScript**](https://github.com/ishant37/SyncScript)
 
 ---
 
 ⭐️ If you like what I do, give me a star on my projects and follow me for updates!
-
