@@ -33,11 +33,6 @@
 
 ---
 
-### 🏆 Competitions & Hackathons
-![Flipkart Grid](https://img.shields.io/badge/Flipkart%20Grid-Registered-blue?style=flat-square&logo=flipkart&logoColor=white)
-
----
-
 ### 📈 GitHub Stats
 ![Ishaant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishaant2510&show_icons=true&theme=radical&hide_border=false&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaant2510&layout=compact&theme=radical&hide_border=false)
